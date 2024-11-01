@@ -1,0 +1,10 @@
+ .rectangle .lwc-chat-button {
+    position: fixed!important;
+    right: 20px!important;
+    bottom: 40px!important;
+}
+ .rounded .lwc-chat-button {
+    position: fixed!important;
+    right: 20px!important;
+    bottom: 40px!important;
+}
